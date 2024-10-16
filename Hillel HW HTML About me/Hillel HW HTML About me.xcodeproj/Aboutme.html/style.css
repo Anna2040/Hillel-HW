@@ -1,0 +1,38 @@
+.bstyle
+{ 
+    padding: 50px ;
+    background: #ccffff ;
+    font-family: COURIER ;
+}
+
+.pstyle
+{
+    text-align: left ;
+    font-family: COURIER ;
+    color: #1a8cff;
+    font-size: 25px ;
+    font-weight: bold;
+    width: 100%;
+    display: flex;}
+
+.hstyle
+    {color: #004080
+    font-family: COURIER ;
+    text-align: justify ;
+    }
+
+.cart {
+    height: auto;
+    padding: 0 20px;
+    margin-right: 20%;
+    padding-top: 4%;
+    line-height: 1.25;
+    transition: 0.5s;
+    position: relative;
+    display: inline;
+}
+
+.block2 {
+    width: 100%;
+    display: flex;
+}
